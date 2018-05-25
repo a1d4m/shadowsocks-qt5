@@ -18,5 +18,5 @@ dpkg -i libqtshadowsocks-dev_1.10.0-1_amd64.deb
 dpkg -i shadowsocks-qt5_2.8.0-1_amd64.deb
 ```
 ```
-参考 http://blog.csdn.net/hardhard123/article/details/78066084
+参考 http://www.ychack.com/2018/05/25/shadowsocks-qt5-for-linux/
 ```
